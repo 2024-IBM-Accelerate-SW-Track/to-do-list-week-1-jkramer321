@@ -1,5 +1,4 @@
-import React, { Component } from 'react';
-  
+import React, { Component } from 'react'; 
 import "./About.css";
 import profilePic from "../assets/profile_pic_Jared_Kramer.jpg";
 
